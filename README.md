@@ -13,18 +13,17 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="visual-studio-code" width="26px" src="https://raw.githubusercontent.com/github/explore/tree/master/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/tree/master/topics/github/github.png" />]
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/tree/master/topics/python/python.png" />]
-[<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/tree/master/topics/sql/sql.png" />]
-[<img align="left" alt="azure" width="26px" src="https://raw.githubusercontent.com/github/explore/tree/master/topics/azure/azure.png" />]
-[<img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/tree/master/topics/bash/bash.png" />]
-[<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/tree/master/topics/html/html.png" />]
-[<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/tree/master/topics/css/css.png" />]
-[<img align="left" alt="markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/tree/master/topics/markdown/markdown.png" />]
-[<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/tree/master/topics/terminal/terminal.png" />]
-[<img align="left" alt="visual-basic" width="26px" src="https://raw.githubusercontent.com/github/explore/tree/master/topics/visual-basic/visual-basic.png" />]
-
+[<img align="left" alt="visual-studio-code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />]
+[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />]
+[<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />]
+[<img align="left" alt="azure" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png" />]
+[<img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" />]
+[<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />]
+[<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />]
+[<img align="left" alt="markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/markdown/markdown.png" />]
+[<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />]
+[<img align="left" alt="visual-basic" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-basic/visual-basic.png" />]
 
 <br />
 
