@@ -26,6 +26,7 @@
 <img align="left" alt="visual-basic" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-basic/visual-basic.png" />
 
 <br />
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
