@@ -27,6 +27,13 @@
 
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+  <img align="left" alt="ScottDewar's GitHub Stats" src="https://github-readme-stats.scottdewar.vercel.app/api?username=ScottDewar&show_icons=true&hide_border=true" />
+  
+ </details>
+
 [twitter]: https://twitter.com/ScottDewar24
 [linkedin]: https://linkedin.com/in/scottdewar24
 [instagram]: https://instagram.com/scottdewar24
