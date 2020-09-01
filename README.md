@@ -35,6 +35,8 @@
   <img align="left" alt="ScottDewar's GitHub Stats" src="https://github-readme-stats.scottdewar.vercel.app/api?username=ScottDewar&show_icons=true&hide_border=true" />
   
  </details>
+ 
+ [![Top Langs](https://github-readme-stats.scottdewar.vercel.app/api/top-langs/?username=ScottDewar&layout=compact)](https://github.com/scottdewar/github-readme-stats)
 
 [twitter]: https://twitter.com/ScottDewar24
 [linkedin]: https://linkedin.com/in/scottdewar24
