@@ -1,4 +1,4 @@
-### Hi there, I'm Scott
+![Twitter Follow](https://img.shields.io/twitter/follow/scottdewar24?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 ## I'm a Senior Analyst
 - Python, SQL, Data Vis
