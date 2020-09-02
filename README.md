@@ -1,5 +1,5 @@
-# Welcome to my GitHub page
-[<img align="right" src="https://spotify-now-playing.scottdewar.vercel.app/api/spotify" width="350" />](https://open.spotify.com/user/scottdewar)
+# Welcome to my GitHub page [<img align="right" src="https://spotify-now-playing.scottdewar.vercel.app/api/spotify" width="350" />](https://open.spotify.com/user/scottdewar)
+
 <br />
 <br />
 <br />
