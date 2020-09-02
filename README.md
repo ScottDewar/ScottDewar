@@ -1,13 +1,6 @@
-<p align="center">
-  
-![Twitter Follow](https://img.shields.io/twitter/follow/scottdewar24?color=1DA1F2&logo=Twitter&style=for-the-badge)
-<br />
-[<img src="https://spotify-now-playing.scottdewar.vercel.app/api/spotify" align="center" width="350" />](https://open.spotify.com/user/scottdewar)
-</p>
+[<img align="right" src="https://spotify-now-playing.scottdewar.vercel.app/api/spotify" width="350" />](https://open.spotify.com/user/scottdewar)
 
-## I'm a Senior Analyst
-- Python, SQL, Data Vis
-- 2020 Goals: Read 24 books (two a month)
+---
 
 ### Connect with me:
 
@@ -37,6 +30,8 @@
 
 [![:zap: GitHub Stats](https://github-readme-stats.scottdewar.vercel.app/api?username=ScottDewar&show_icons=true&hide_border=true&theme=algolia)](https://github.com/scottdewar/github-readme-stats)
 [![Top Langs](https://github-readme-stats.scottdewar.vercel.app/api/top-langs/?username=ScottDewar&layout=compact)](https://github.com/scottdewar/github-readme-stats)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/scottdewar24?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 [twitter]: https://twitter.com/ScottDewar24
 [linkedin]: https://linkedin.com/in/scottdewar24
