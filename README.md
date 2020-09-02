@@ -1,8 +1,8 @@
-<p align='center'>
+<p align="center">
   
 ![Twitter Follow](https://img.shields.io/twitter/follow/scottdewar24?color=1DA1F2&logo=Twitter&style=for-the-badge)
 <br />
-[![Spotify](https://spotify-now-playing.scottdewar.vercel.app/api/spotify)](https://open.spotify.com/user/scottdewar)
+[<img src="https://spotify-now-playing.scottdewar.vercel.app/api/spotify" align="center" width="350" />](https://open.spotify.com/user/scottdewar)
 </p>
 
 ## I'm a Senior Analyst
