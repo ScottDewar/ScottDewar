@@ -27,8 +27,8 @@
 ---
 
 
-[![:zap: GitHub Stats](https://github-readme-stats.scottdewar.vercel.app/api?username=ScottDewar&show_icons=true&hide_border=true&theme=algolia)](https://github.com/scxttd/github-readme-stats)
-[![Top Langs](https://github-readme-stats.scottdewar.vercel.app/api/top-langs/?username=ScottDewar&layout=compact)](https://github.com/scxttd/github-readme-stats)
+[![:zap: GitHub Stats](https://github-readme-stats.scottdewar.vercel.app/api?username=scxttd&show_icons=true&hide_border=true&theme=algolia)](https://github.com/scxttd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.scottdewar.vercel.app/api/top-langs/?username=scxttd&layout=compact)](https://github.com/scxttd/github-readme-stats)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/scottdewar24?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
