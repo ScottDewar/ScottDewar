@@ -4,12 +4,6 @@
 - Python, SQL, Data Vis
 - 2020 Goals: Read 24 books (two a month)
 
-### Connect with me:
-
-[<img align="left" alt="ScottDewar24 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Scott Dewar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ScottDewar24 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
@@ -24,6 +18,15 @@
 <img align="left" alt="markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/markdown/markdown.png" />
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 <img align="left" alt="visual-basic" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-basic/visual-basic.png" />
+
+<br />
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="ScottDewar24 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Scott Dewar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ScottDewar24 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
