@@ -1,8 +1,5 @@
-### Hi there, I'm Scott
-
-## I'm a Senior Analyst
-- Python, SQL, Data Vis
-- 2020 Goals: Read 24 books (two a month)
+# Welcome to my GitHub page [<img align="right" src="https://spotify-now-playing.scottdewar.vercel.app/api/spotify" width="350" />](https://open.spotify.com/user/scottdewar)
+---
 
 <br />
 
@@ -29,6 +26,14 @@
 [<img align="left" alt="ScottDewar24 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+---
+
+
+[![:zap: GitHub Stats](https://github-readme-stats.scottdewar.vercel.app/api?username=scxttd&show_icons=true&hide_border=true&theme=algolia)](https://github.com/scxttd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.scottdewar.vercel.app/api/top-langs/?username=scxttd&layout=compact)](https://github.com/scxttd/github-readme-stats)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/scottdewar24?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 [twitter]: https://twitter.com/ScottDewar24
 [linkedin]: https://linkedin.com/in/scottdewar24
